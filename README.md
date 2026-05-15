@@ -1,6 +1,5 @@
 <h1>Full-Stack deployed on Vercel</h1>
 <br>
-<h1>Stay FOREVER YOUNG with FOREVER~</h1>
 
 (compile with 'npm run dev' for fronentend and 'npm run server' for backend)<br><br><br>
 
